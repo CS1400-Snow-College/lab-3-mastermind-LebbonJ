@@ -1,0 +1,15 @@
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\bin\Debug\net8.0\lab-3-mastermind-LebbonJ.exe
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\bin\Debug\net8.0\lab-3-mastermind-LebbonJ.deps.json
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\bin\Debug\net8.0\lab-3-mastermind-LebbonJ.runtimeconfig.json
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\bin\Debug\net8.0\lab-3-mastermind-LebbonJ.dll
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\bin\Debug\net8.0\lab-3-mastermind-LebbonJ.pdb
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.AssemblyInfoInputs.cache
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.AssemblyInfo.cs
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.csproj.CoreCompileInputs.cache
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.sourcelink.json
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.dll
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\refint\lab-3-mastermind-LebbonJ.dll
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.pdb
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\lab-3-mastermind-LebbonJ.genruntimeconfig.cache
+C:\Users\justi\my-code-dir\lab-3-mastermind-LebbonJ\obj\Debug\net8.0\ref\lab-3-mastermind-LebbonJ.dll
