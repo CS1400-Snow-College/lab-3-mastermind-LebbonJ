@@ -10,9 +10,9 @@ Console.WriteLine("Your job is to guess the letters and put them in the right or
 string answerKey = "bcfe";
 string guess = "";
 
-int numGuess = 0;
+int numGuess = 0; //Number of guess made by player
 int matchlettercount = 0;  // Count of letters in the correct position
-
+int outofplacecount = 0; //Count of letters in the wrong position
 
 do
 {   
@@ -27,11 +27,24 @@ do
             {
                 matchlettercount++;
             }
-           
+            else
+            {
+                for (int j = 0; j < answerKey.Length; j++)
+                {
+                    if (guess[i] == answerKey[j] && i != j)
+                    {
+                        outofplacecount++;
+                        break;
+                    }
+                }
+            }
         }
 
     Console.WriteLine($" {matchlettercount} - correctly placed letters");
-    
+    Console.WriteLine($" {outofplacecount} - correct letters but in the wrong place");
+
 }
 while (guess != "bcfe");
+
+Console.ReadKey();
 
